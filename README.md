@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**Mahmoud-Atiyah/Mahmoud-Atiyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Mahmoud Atiyah
 
-Here are some ideas to get you started:
+- 🎓 Computer Science student (Associate Degree + Bachelor's in progress)
+- 💻 Passionate about full-stack development, Python, and building interactive apps
+- 🚀 Currently working on projects using React, Flask, and MySQL
+- 🎮 I also love building games and experimenting with Unity
+- 🌍 Bilingual: Arabic & English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧰 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python (Flask), Node.js
+- Database: MySQL, MongoDB
+- Tools: Git, GitHub, Postman, VS Code
+
+## 📌 Projects
+Check out some of my pinned projects below or visit my [Website](https://mahmoud-atiyah.netlify.app/)
+
+## 📫 Connect with me
+- GitHub: [Mahmoud-Atiyah](https://github.com/Mahmoud-Atiyah)
+- Email: mahmoudatiyah99@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/mahmoud-a-b01a89188/)
 -->
