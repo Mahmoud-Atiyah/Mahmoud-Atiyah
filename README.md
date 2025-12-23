@@ -93,7 +93,7 @@ I’m open to:
 📫 **Reach me:**  
 - Portfolio: https://mahmoud-atiyah.netlify.app  
 - GitHub: https://github.com/Mahmoud-Atiyah  
-- LinkedIn: (add when ready)
+- LinkedIn: https://www.linkedin.com/in/mahmoud-a-b01a89188/
 
 ---
 
